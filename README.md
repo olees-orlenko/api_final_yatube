@@ -1,5 +1,13 @@
-# api_final
-api final
+# Проект API Yatube.
+
+## Описание проекта
+Позволяет создавать, читать, изменять и удалять свои посты, а так же читать чужие посты и подписываться на их авторов посредством API-запросов.
+
+## Технологии
+•	Python 3.9
+•	Django==3.2.3
+•	djangorestframework==3.12.4
+•	JWT + Djoser
 
 ### Как запустить проект:
 
@@ -52,3 +60,6 @@ python3 manage.py migrate
 ```
 python3 manage.py runserver
 ```
+
+## Автор
+[@olees-orlenko](https://github.com/olees-orlenko)
